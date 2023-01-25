@@ -1,5 +1,5 @@
 # MOBA-Magic
-(Last Project) 3D-Second-Person-MOBA-RPG for Android
+(Last Project) 3D-Second-Person-MOBA-Action-RPG for Android
 <p>Editor: Unity 2021.3</a>
 <p>Plugins: Cinemachine, New InputSystem, TextMeshPro, AI Navigation</a>
 <p>Developed as: Freelance</a>
