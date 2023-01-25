@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676f77b931a76d744a2ed4b7b57b3388, type: 3}
+  m_Name: MOBA Game Settings
+  m_EditorClassIdentifier: 
+  <CustomizationSettings>k__BackingField: {fileID: 11400000, guid: 2dd06d5745c27ec429513453d5f2f144,
+    type: 2}
+  <PlayerSettings>k__BackingField: {fileID: 11400000, guid: a220c55a35de9294cbb863e708bb43f0,
+    type: 2}
+  <MatchSettings>k__BackingField: {fileID: 11400000, guid: af9de21986d06cb439cc5006b86de07e,
+    type: 2}
+  <ItemSettings>k__BackingField: {fileID: 11400000, guid: 916c6791139ee2741a7a57f06be3c6df,
+    type: 2}
+  <MusicSettings>k__BackingField: {fileID: 11400000, guid: bc3acc84fe2b77c44846bdb159bbd909,
+    type: 2}
+  <AwardsInfo>k__BackingField:
+    CoinForKill: 1
+    ScoreForExit: 0
+    ScoreForLose: 5
+    ScoreForWin: 0
+    ScoreForKill: 5

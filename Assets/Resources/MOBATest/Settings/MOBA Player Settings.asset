@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 685aacd3a48450b46bb8eee6bfb8acf2, type: 3}
+  m_Name: MOBA Player Settings
+  m_EditorClassIdentifier: 
+  <DefaultPlayerInfo>k__BackingField:
+    Nickname: Player
+    AmountKill: 0
+    Coin: 0
+    Score: 0
+    Level: 0
+  <ScoreLict>k__BackingField:
+  - 10
+  - 100
+  - 1000
+  - 10000
+  <OwnerPlayerInfo>k__BackingField:
+    Nickname: naumnek
+    AmountKill: 0
+    Coin: 0
+    Score: 0
+    Level: 1
+  <PlayerSaves>k__BackingField:
+    Skin: 0
+    Music:
+      Name: 
+      Audio: {fileID: 0}
+      MusicType: 0
+      SceneType: 0
+    MusicVolume: 0
+    LookSensitivity: 0
+    CrosshairPosition: {x: 0, y: 0}
+    CameraDistance: 24
+    SkillSize: 6
+    Shadows: 2
+    Quality: 5
+    Framerate: 0
+    VisiblyTrailBullet: 0

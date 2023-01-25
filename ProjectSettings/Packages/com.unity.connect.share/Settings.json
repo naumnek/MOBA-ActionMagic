@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_5_0;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_7;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_6;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_5;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_3;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_2;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_1;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_4_0;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_1_2;D:/UnityProjects/Saves/Builds/MOBATest/TestMOBA 0_1_1_1\"}"
+            }
+        ]
+    }
+}

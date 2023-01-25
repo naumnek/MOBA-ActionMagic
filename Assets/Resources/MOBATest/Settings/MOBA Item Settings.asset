@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55194afc098a5084eacd5d577f76f826, type: 3}
+  m_Name: MOBA Item Settings
+  m_EditorClassIdentifier: 
+  <ItemList>k__BackingField:
+  - weapon: {fileID: 8875963058411652383, guid: beba30d82731908479be39062513e5ba,
+      type: 3}
+    IsUnvisibly: 1
+    IsBlocked: 0
+  <MaxWeaponAttributes>k__BackingField:
+    MaxBullets: 5
+    Damage: 1000
+    BulletSpeed: 50
+    BulletSpreadAngle: 1
+    BulletsPerShoot: 5

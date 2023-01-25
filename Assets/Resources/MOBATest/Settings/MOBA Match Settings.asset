@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a9d73a04d94814a928e081c6eea4f7, type: 3}
+  m_Name: MOBA Match Settings
+  m_EditorClassIdentifier: 
+  <MainMenuBuildIndex>k__BackingField: 1
+  <CountTeams>k__BackingField: 2
+  <ShopRange>k__BackingField: 10
+  <TimeUntilStoreLock>k__BackingField: 15
+  <MaxPaidWeapons>k__BackingField: 1
+  <RespawnDelay>k__BackingField: 5
+  <MultiplerBoostDelayAfterDeath>k__BackingField: 0.1
+  <MultiplerBoostAmountAfterDeath>k__BackingField: 0.4
+  <PeacifulMode>k__BackingField: 0
+  Seed: 0
+  <StartingWeapons>k__BackingField:
+  - {fileID: 8875963058411652383, guid: beba30d82731908479be39062513e5ba, type: 3}
+  <MembersList>k__BackingField:
+  - Authority: 2
+    Prefab: {fileID: 2406240695275259827, guid: 9d7c5ebf3d0b6db449c04bad74b1fca5,
+      type: 3}
+    Count: 1
+  - Authority: 0
+    Prefab: {fileID: 317118326870961143, guid: dc47b02f5633ab245bfff8460262d7c7, type: 3}
+    Count: 5
