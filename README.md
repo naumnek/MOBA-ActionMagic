@@ -5,4 +5,4 @@
 <p>Developed as: Freelance</a>
 <p>Release Version: <a href="https://naumnek.itch.io/moba-magic" title="Open from Itch.io">itch.io</a>
  <p></a>
-<img src="https://github.com/naumnek/MOBA-Magic/blob/master/moba-screen.jpg" alt="">
+<img src="https://github.com/naumnek/MOBA-Magic/blob/master/moba-mobile-screen.jpg" alt="">
