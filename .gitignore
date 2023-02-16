@@ -17,10 +17,6 @@
 
 #ignore import packages
 /[Aa]ssets/Import*
-/[Aa]ssets/Resources/MOBATest/NewRabbitModels*
-
-#ignore import packages
-
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -63,7 +59,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -78,11 +73,9 @@ crashlytics-build.properties
 # Graphics elements
 *.fbx
 *.png
-*.wav
 *.tif
 *.tga
 *.psd
 *.ttf
 *.aiff
 *.jpg
-*.mp3
