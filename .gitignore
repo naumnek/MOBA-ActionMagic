@@ -17,6 +17,8 @@
 
 #ignore import packages
 /[Aa]ssets/Import*
+/[Aa]ssets/Samples*
+**/Assets/Resources/StandartAnimations/*.fbx
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
